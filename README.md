@@ -21,7 +21,7 @@
 
 <p>Open integrated terminal with db.json and run the following code in the terminal to start the json server.</p>
 
-<p>json-server --watch db.json</p>
+<p><b>json-server --watch db.json</b></p>
 
 
 <h3>Points to improve the Application in future stages</h3>

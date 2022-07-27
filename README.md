@@ -35,3 +35,6 @@
   <li>Can add filter option with date(or)depatment(or)Check-in-time(or)Check-out-time.</li>
 
 </ul>
+
+<h3>Few Image's from the Application for your Reference.</h3>
+<a href="https://ibb.co/NCZkkV8"><img src="https://i.ibb.co/bmzyyWS/1Oj.jpg" alt="1Oj" border="0"></a>
